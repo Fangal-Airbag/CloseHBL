@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>CloseHBL</name>
+  <coder>Fangal</coder>
+  <version>1.0</version>
+  <release_date>20220107000000</release_date>
+  <url>https://github.com/Fangal-Airbag/CloseHBL</url>
+  <short_description>Closes the Homebrew Launcher!</short_description>
+<long_description>
+Pretty useless yet convenient app :P
+
+Literally just quits the Homebrew Launcher and opens the Wii U home menu, that's all.
+
+Credits to TheLegendOfXela for the icon!
+Their Discord: TheLegendOfXela#0475 
+</long_description>
+<category>Misc</category>
+
+</app>
